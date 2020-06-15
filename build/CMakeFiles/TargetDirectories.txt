@@ -1,0 +1,3 @@
+/home/student/Mini_Project/build/CMakeFiles/rebuild_cache.dir
+/home/student/Mini_Project/build/CMakeFiles/plugin.dir
+/home/student/Mini_Project/build/CMakeFiles/edit_cache.dir
